@@ -16,7 +16,10 @@ With a strong foundation in Python and SQL, I'm passionate about harnessing data
 
 ## Social Media
 
-[LinkedIn](https://www.linkedin.com/in/venkatesh-044vm) | [GitHub](https://github.com/Venky044) | [LeetCode](https://leetcode.com/Venky044) | [Hackerrank](https://www.hackerrank.com/venkim044?hr_r=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-venkatesh--044vm-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/venkatesh-044vm)
+[![GitHub](https://img.shields.io/badge/GitHub-Venky044-black?style=flat-square&logo=github)](https://github.com/Venky044)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Venky044-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/Venky044)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-venkim044-green?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/venkim044?hr_r=1)
 
 I'm open to exploring roles primarily centered around Python and SQL. Let's connect and discuss how I can contribute to your projects and initiatives.
 
