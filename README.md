@@ -4,7 +4,7 @@ I'm a dedicated and results-driven tech enthusiast from Bengaluru, India. My pri
 
 ## Skills
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square) ![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-yellow?style=flat-square) ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?style=flat-square) ![IBM Cognos Analytics](https://img.shields.io/badge/-IBM%20Cognos%20Analytics-blue?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square) ![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-yellow?style=flat-square) ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?style=flat-square) ![IBM Cognos Analytics](https://img.shields.io/badge/-IBM%20Cognos%20Analytics-blue?style=flat-square) ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square)
 
 ## About Me
 
