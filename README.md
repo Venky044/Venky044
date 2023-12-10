@@ -6,6 +6,11 @@ I'm a dedicated and results-driven tech enthusiast from Bengaluru, India. My pri
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square) ![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-yellow?style=flat-square) ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?style=flat-square) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square) ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square)
 
+## Skills
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=flat-square) ![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square)  ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?style=flat-square) ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-yellow?style=flat-square)
+
+
 ## About Me
 
 With a strong foundation in Python and SQL, I'm passionate about harnessing data to extract meaningful insights. Having achieved the Hackerrank gold badge in both Python and SQL, I've proven my prowess in these domains. The recently completed IBM Data Analyst Professional Course has further sharpened my analytical skills and data manipulation techniques.
