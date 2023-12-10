@@ -2,9 +2,6 @@
 
 I'm a dedicated and results-driven tech enthusiast from Bengaluru, India. My primary interest lies in the realm of Data Analysis. Recently, I completed the IBM Data Analyst Professional Course, which has fortified my skills and insights in this domain. My passion for Python and SQL, coupled with my problem-solving knack, fuels my drive to excel in this field.
 
-## Skills
-
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square) ![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square) ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-yellow?style=flat-square) ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?style=flat-square) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square) ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square)
 
 ## Skills
 
